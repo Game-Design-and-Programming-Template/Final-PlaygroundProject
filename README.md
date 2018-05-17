@@ -2,7 +2,7 @@
 
 To get started with the final project you need to install a copy of the PlaygroundProject 2D game toolkit. The toolkit provides a set of building blocks so that you can focus on the design of your game. The toolkit makes it easy to put together a playable prototype of your game idea.
 
-Installation steps:
+### Installation steps:
 
 1. Launch Windows Explorer (**not** Internet Explorer). Look for this icon near the Start Button in the lower left hand corner of your primary monitor.
 <img src="" width="50%">
@@ -15,7 +15,7 @@ Installation steps:
 1. Choose Open at the Startup dialog and choose the **PlaygroundProjectTemplate** folder that you just created. If you don't see the **PlaygroundProjectTemplate** folder it is very likely that you skipped decompressing the zip archive.
 1. Once Unity is launched explore the sample projects in the **Examples** folder. Each folder in the Examples folder is a game, to launch the game open the folder and double-click on the scene file.
 
-Your assignment:
+### Your assignment:
 
 Play a few of the games in the Examples folder. Each one is playable, but none is a fully developed game. You are likely to find bugs or things that you would like to change. Make notes about the games that you play and the bugs you find and the ways you see to make them better.
 
