@@ -7,13 +7,21 @@ To get started with the final project you need to install a copy of the Playgrou
 1. Launch Windows Explorer (**not** Internet Explorer). Look for this icon near the Start Button in the lower left hand corner of your primary monitor. In the image below Windows Explorer is the icon in the middle.
 
  <img src="images/Windows-Explorer.png" width="50%">
+
 1. Then navigate to the shared folder for our class: _P:\Instruction\Urner_Douglas\Urner_Douglas-**<our block #>**\Collaboration_.
+
 1. Copy of the **PlaygroundProjectTemplate** zip archive by typing ***Control-C***.
+
 2. Next, navigate to the folder where you keep your games – _U:\Game Design_ or something similar.
+
 3. Paste the **PlaygroundProjectTemplate** zip archive into the folder by typing ***Control-V***.
+
 2. Then extract the compressed folder – right-click and choose **Extract All** from the context menu.
+
 1. Launch Unity.
+
 1. Choose Open at the Startup dialog and choose the **PlaygroundProjectTemplate** folder that you just created. If you don't see the **PlaygroundProjectTemplate** folder it is very likely that you skipped decompressing the zip archive.
+
 1. Once Unity is launched explore the sample projects in the **Examples** folder. Each folder in the Examples folder is a game, to launch the game open the folder and double-click on the scene file.
 
  <img src="images/Example-Games.png" width="50%">
