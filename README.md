@@ -32,7 +32,9 @@ There are two parts to your assignmnent for today:
 
 1. Play a few of the games in the `Examples` folder. Each one is playable, but none is a fully developed game. You are likely to find bugs or things that you would like to change. **Make notes about the games that you play and the bugs you find and the ways you see to make them better.**
 
-  Your note should include:
+  **Start by titling and dating the notes page.**
+
+  Then for each game make notes that include:
   * The name of the game.
   * A description of the issue – explain what goes wrong, or describe how  the game could be improved.
   * Give a list of steps to reproduce the problem.
