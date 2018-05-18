@@ -17,6 +17,13 @@ To get started with the final project you need to install a copy of the Playgrou
 
 ### Your assignment:
 
-Play a few of the games in the Examples folder. Each one is playable, but none is a fully developed game. You are likely to find bugs or things that you would like to change. Make notes about the games that you play and the bugs you find and the ways you see to make them better.
+There are two parts to your assignmnent for today:
 
-Complete this assignment by making a screen capture (do a "Window Snip" to get the whole Unity window) of one of the example games – try to capture a view of the game that helps to explain your ideas for improving the game. Upload your screen capture as your submission.
+1. Play a few of the games in the `Examples` folder. Each one is playable, but none is a fully developed game. You are likely to find bugs or things that you would like to change. **Make notes about the games that you play and the bugs you find and the ways you see to make them better.**
+
+  Your note should include:
+  * The name of the game.
+  * A description of the issue – explain what goes wrong, or describe how  the game could be improved.
+  * Give a list of steps to reproduce the problem.
+
+2. Complete this assignment by making a screen capture (do a "Window Snip" to get the whole Unity window) of the most significant issue you found in the example games – try to set up the game to illustrate the issue that you found. Upload your screen capture as your submission for this assignment.
